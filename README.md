@@ -1,6 +1,3 @@
-
-[![MasterHead](https://wallpaperaccess.com/full/1099445.png)]
-
 <h1 align="center">Hi 👋, I'm Melvin Melo</h1>
 <h3 align="center">A passionate web developer from Batangas, Philippines</h3>
 
